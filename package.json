@@ -1,0 +1,10 @@
+{
+  "name": "required-pinned-packages",
+  "version": "0.0.1",
+  "description": "Tool to verify a package.json depends on specific versions instead of ranged versions",
+  "repository": "https://github.com/meschbach/require-pinned-packages",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "5.0.0"
+  }
+}
