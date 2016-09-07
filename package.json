@@ -6,5 +6,6 @@
   "license": "MIT",
   "dependencies": {
     "yargs": "5.0.0"
-  }
+  },
+  "bin" : { "require-pinned-packages" : "./index.js" }
 }

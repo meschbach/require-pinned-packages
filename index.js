@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 var fs = require("fs");
 var process = require( "process" );
 var args = require( "yargs" )
